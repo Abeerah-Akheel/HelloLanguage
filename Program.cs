@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 Main();
 
-static void Main()
+static void Main() 
 {
     string message = "";
     do
